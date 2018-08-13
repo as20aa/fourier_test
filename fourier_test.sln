@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fourier_test", "fourier_test\fourier_test.vcxproj", "{3C943AEA-B413-4DCA-9E24-1B5060790586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C943AEA-B413-4DCA-9E24-1B5060790586}.Debug|x64.ActiveCfg = Debug|x64
+		{3C943AEA-B413-4DCA-9E24-1B5060790586}.Debug|x64.Build.0 = Debug|x64
+		{3C943AEA-B413-4DCA-9E24-1B5060790586}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C943AEA-B413-4DCA-9E24-1B5060790586}.Debug|x86.Build.0 = Debug|Win32
+		{3C943AEA-B413-4DCA-9E24-1B5060790586}.Release|x64.ActiveCfg = Release|x64
+		{3C943AEA-B413-4DCA-9E24-1B5060790586}.Release|x64.Build.0 = Release|x64
+		{3C943AEA-B413-4DCA-9E24-1B5060790586}.Release|x86.ActiveCfg = Release|Win32
+		{3C943AEA-B413-4DCA-9E24-1B5060790586}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DB0DDBF-BA4E-4533-BCC4-8EE809314A2B}
+	EndGlobalSection
+EndGlobal
